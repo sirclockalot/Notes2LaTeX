@@ -5,7 +5,7 @@ Copyright 2012 Luca Stickley & Raquel Munoz
 
 Distributed under the terms of the GNU General Public License v2
 
-For changes fork and we will merge
+To add code, fork and we will then merge it.
 
 
 
