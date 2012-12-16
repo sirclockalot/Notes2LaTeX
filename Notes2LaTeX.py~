@@ -51,18 +51,18 @@ def main():
     check_notes = "n"
 
     while(check_question=="y"):
-        question = raw_input('Question: ') #question
+        question = raw_input('Question: ')
         f.write('\\begin{list1} \n')
         f.write('\item[] {\\bf ')
         f.write(question)
         f.write('?} \n')
-        answer = raw_input('Answer: ') #answer
+        answer = raw_input('Answer: ')
         f.write('\item[] ')
         f.write(answer)
         f.write(' \n')
         check_notes = raw_input("Do you want to add notes to this answer? (y/n)")
         if (check_notes == "y"):
-           notes = raw_input("Notes: ") #extra notes
+           notes = raw_input("Notes: ")
            f.write('\item[] \\textit{ ')
            f.write(notes)
            f.write('} \n')
