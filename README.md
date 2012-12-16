@@ -17,7 +17,7 @@ python notes2LaTex.py [filename]
 
 
 
-The file created will be filename + todays date.
+The file created will be filename + today's date.
 
-To typeset, open created file in LaTeX editor, or typset in comandline.
+To typeset, open created file in LaTeX editor, or typset in cmd.
 
