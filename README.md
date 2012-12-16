@@ -1,7 +1,7 @@
 Notes2LaTeX
 ===========
 
-Copyright 1999 Luca Stickley
+Copyright 2012 Luca Stickley
 
 Distributed under the terms of the GNU General Public License v2
 
