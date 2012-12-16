@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-#Copyright 2012 Luca Stickley Raquel Munoz
+#Copyright 2012 Luca Stickley & Raquel Munoz
 #Distributed under the terms of the GNU General Public License v2
 
 import sys #utility for cmd line
