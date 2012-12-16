@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+#Copyright 1999 Luca Stickley
+#Distributed under the terms of the GNU General Public License v2
+
 import sys #utility for cmd line
 import datetime #date module
 
