@@ -29,7 +29,7 @@ def main():
     f.write('\\title{')
     f.write(filename)
     f.write('} \n')
-    f.write('\\author{Luca Charles Stickley} \n')
+    f.write('\\author{Add Author name into script} \n')
     f.write('\date{')
     f.write(date)
     f.write('} \n')
